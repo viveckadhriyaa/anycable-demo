@@ -21,6 +21,7 @@ group :development, :test do
   gem 'pry-byebug'
   gem 'pry-rails'
   gem 'rspec-rails', '~> 4.0.0'
+  gem 'sidekiq', '~> 6.0.7'
 end
 
 group :development do
